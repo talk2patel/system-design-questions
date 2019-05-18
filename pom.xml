@@ -9,5 +9,6 @@
   <modules>
     <module>traffic-light-controller</module>
     <module>commenting-system</module>
+    <module>receipt-printing-system</module>
   </modules>
 </project>
