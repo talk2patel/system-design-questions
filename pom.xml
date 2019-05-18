@@ -8,5 +8,6 @@
   <name>System Design Questions</name>
   <modules>
     <module>traffic-light-controller</module>
+    <module>commenting-system</module>
   </modules>
 </project>
