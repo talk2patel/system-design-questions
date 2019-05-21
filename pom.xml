@@ -10,5 +10,10 @@
     <module>traffic-light-controller</module>
     <module>commenting-system</module>
     <module>receipt-printing-system</module>
+    <module>movie-booking-system</module>
+    <module>restaurant-reservation-system</module>
+    <module>library-management-system</module>
+    <module>hotel-booking-system</module>
+    <module>elevator-system</module>
   </modules>
 </project>
